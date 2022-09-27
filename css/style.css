@@ -1,0 +1,237 @@
+  body {
+    position: relative;
+    font-family: 'Poppins';
+  }
+
+  .navbar {
+    background-color: #0C266A;
+    padding: 20px;
+  }
+
+
+  .navbar .navbar_logo{
+    width: 285px;
+    height: 108px;
+  }
+
+  #section1{
+    background-image: url(../image/Group\ 315.png);
+    background-repeat: no-repeat;
+    padding: 731px 20px;
+    width: 2401px;
+    max-width: 100%;
+    background-size: 2312px 1275px;
+  }
+
+  #section2{
+    padding: 150px 20px;
+  }
+
+  #section2 .p_about_us{
+    text-align: left;
+    font-size: 5rem;
+    text-align: justify;
+  }
+
+
+  #section2 h1{
+    position: relative;
+    top: 250px;
+    font-size: 3.5rem;
+    font-weight: 900;
+  }
+
+  #section3 {
+    background-image: url(../image/Group_327.png);
+    background-repeat: no-repeat;
+    padding: 200px 20px;
+    width: 2401px;
+    max-width: 100%;
+    background-size: 2816px 1662px;
+  }
+
+
+
+  #section3 .logo_safety_connection{
+    position: relative;
+    width: 80px;
+    height: 103px;
+    left: 1168px;
+    top: 110px;
+  }
+
+  #section3 .gambar_section3_guru{
+    position: relative;
+    width: 900px;
+    height: 520px;
+    bottom: 150px;
+    left: 100px;
+  }
+
+  #section3 h1 {
+    position: relative;
+    right: 184px;
+    text-align: right;
+    font-weight: 900;
+    font-size: 3.6rem;
+    letter-spacing: 8px;
+  }
+
+  #section3 .p_indonesia{
+    position: relative;
+    right: 380px;
+    bottom: 20px;
+    text-align: right;
+    font-weight: 900;
+    font-size: 2.5rem;
+    letter-spacing: 20px;
+  }
+
+  #section3 .p_content_3{
+    position: relative;
+    right: 110px;
+    bottom: 240px;
+    font-size: 2.6rem;
+    font-weight: 900;
+  }
+
+  #section3 .kanji_1{
+    bottom: 1081px;
+    left: 70px;
+  }
+
+  #section3 .kanji_2{
+    position: relative;
+    top: 53px;
+    right:550px;
+  }
+
+  #section3 .kanji_3{
+    position: relative;
+    left: 550px;
+    top: 40px;
+  }
+
+  #section3 .kanji_4{
+    position: relative;
+    left: 250px;
+    top: 400px;
+  }
+
+  #section4 {
+    background-image: url('../image/background_tenaga_kerja_fix.jpg');
+    padding: 200px 20px;
+  }
+
+  #section4 .logo_safety_connection1{
+    position: relative;
+    width: 80px;
+    height: 100px;
+    left: 80px;
+    top: 60px;
+  }
+
+  #section4 .safety_connection1{
+    position: absolute;
+    left: 219px;
+    bottom: 2221px;
+    font-weight: 900;
+    letter-spacing: 12px;
+    font-size: 3.6rem;
+  }
+
+
+  #section4 .p_indonesia1 {
+    position: absolute;
+    font-size: 2.5rem;
+    letter-spacing: 20px;
+    font-weight: 900;
+    left: 400px;
+  }
+
+  #section4 .tenaga_kerja1 {
+    position: relative;
+    float: none;
+    top: 280px;
+    left: 34px;
+    width: 500px;
+    height: 600px;
+  }
+
+  #section4 .tenaga_kerja2 {
+    position: relative;
+    float: none;
+    bottom: -280px;
+    right: 684px;
+    width: 350px;
+    height: 600px;
+  }
+
+
+  #section4 .tenaga_kerja3 {
+    position: relative;
+    float: none;
+    bottom: 310px;
+    right: -382px;
+    width: 500px;
+    height: 650px;
+  }
+
+  #section4 .p_section4{
+    position: relative;
+    font-size: 1.95rem;
+    top: -400px;
+  }
+
+  #section5 {
+    background-image: url('../image/background_content5.png');
+    padding: 250px 20px;
+    background-repeat: no-repeat;
+    background-size: 2900px 1000px;
+  }
+
+  #section5 .logo_emas1{
+    position: relative;
+    width: 434px;
+    height: 166px;
+    float: right;
+    right: 442px;
+    bottom: 149px;
+  }
+
+  #section5 .content1_section5 {
+    position: absolute;
+    width: 713px;
+    height: 531px;
+    bottom: -26px;
+  }
+
+  #section5 .content2_section5 {
+    width: 626px;
+    height: 410px;
+    position: absolute;
+    bottom: 46px;
+    left: 322px;
+  }
+
+  #section5 .content3_section5 {
+    width: 590px;
+    height: 242px;
+    position: absolute;
+    bottom: 305px;
+    left: 210px;
+  }
+
+  #section5 .p_section5{
+    position: relative;
+    font-size: 2vw;
+    text-align: justify;
+    bottom: -111px;
+    left: 1021px;
+    width: 1124px;
+  }
+
+footer {
+  background-color: aqua;
+  padding: 200px 200px;
+}
